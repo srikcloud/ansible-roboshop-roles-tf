@@ -1,0 +1,5 @@
+CART_HOST: cart.srikanth553.store
+USER_HOST: user.srikanth553.store
+RABBITMQ_HOST: rabbitmq.srikanth553.store
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
