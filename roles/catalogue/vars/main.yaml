@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.srikanth553.store
+MONGODB_HOST: "mongodb-{{ env }}.srikanth553.store"
